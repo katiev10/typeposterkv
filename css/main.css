@@ -1,0 +1,51 @@
+main h1 {
+	color: white;
+	background: black;
+	text-align:center;
+	font-size: 4rem;
+	letter-transform:uppercase;
+	line-height: 1.5;
+	font-weight: 900;
+	font-family:'Eczar';
+	margin: center;
+	padding: 10px;
+	border: 5px solid orange;
+
+}
+
+
+
+main h2 {
+	color:white;
+	background: black;
+	text-align:center;
+	font-size: 1.5rem;
+	letter-spacing: uppercase;
+	line-height: -1.5;
+	font-weight: 900;
+	font-family: 'abel';
+	border-bottom: 5px solid orange;
+
+}
+
+footer p { 
+color: white;
+margin-top: 60rem;
+padding: 1.5rem;
+text-align:right;
+line-height: 2;
+
+ }
+
+body {
+	background-image: url(../img/daniel-chekalov-764799-unsplash.jpg);
+	background-size: cover; 
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  
+}
+
+
+
